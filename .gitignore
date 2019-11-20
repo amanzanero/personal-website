@@ -66,3 +66,5 @@ netlify.toml
 # mac FS
 .DS_Store
 .vscode/
+
+content-management-token.txt
