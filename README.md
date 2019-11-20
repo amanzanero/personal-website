@@ -1,5 +1,7 @@
 # Andrew's Personal Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eb85ca48-59a1-43ab-b953-bfa5220c9828/deploy-status)](https://app.netlify.com/sites/andrewmanzanero/deploys)
+
 ## Built with:
 
 Gatsby.js
