@@ -142,7 +142,7 @@ const Project = ({
                 />
               </Box>
             )}
-            {repositoryUrl !== '#' && (
+            {projectUrl !== '#' && (
               <Box mx={1} fontSize={5}>
                 <SocialLink
                   name="See project"
